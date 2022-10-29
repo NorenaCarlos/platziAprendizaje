@@ -16,10 +16,9 @@
   "bugs": {
     "url": "https://github.com/NorenaCarlos/platziAprendizaje/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/NorenaCarlos/platziAprendizaje#readme"
-=======
   "homepage": "https://github.com/NorenaCarlos/platziAprendizaje#readme",
-  "type": "module"
->>>>>>> 11632646509cc0d606e8be55717cbc1475043659
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
