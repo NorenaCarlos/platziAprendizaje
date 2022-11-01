@@ -16,5 +16,17 @@ function fetchData(urlAPI){
 fetchData(`${API}/products`)
     .then(response => response.json())
     .then(products => {
-        return console.log(fetchData(`${API}/products/${products[0]}`))
+        console.log(products);
+        return fetchData(`${API}/products/${products[0].id}`)
     })
+    .then(response => response.json())
+    .then(product => {
+        console.log(product.title);
+        return fetchData(`${API}/categories/${product.category.id}`);
+    })
+    .then(response => response.json())
+    .then(category => {
+        console.log(category.name);
+    })
+    .catch(error => console.log(error))
+    .finally(() => console.log('finally'));
