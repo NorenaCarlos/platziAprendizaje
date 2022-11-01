@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Curso asincronismo con javascript platzi ",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node ./src/callback/challange.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type":"module"
+}
