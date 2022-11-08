@@ -17,8 +17,8 @@
     "url": "https://github.com/NorenaCarlos/platziAprendizaje/issues"
   },
   "homepage": "https://github.com/NorenaCarlos/platziAprendizaje#readme",
-  "type": "module",
   "dependencies": {
     "node-fetch": "^3.2.10"
-  }
+  },
+  "type": "module"
 }
