@@ -22,3 +22,37 @@ const anotherFn = async (urlAPI) => {
 
 }
 anotherFn(API);
+
+import fetch from "node-fetch";
+async function runcode(url) {
+    const response = await fetch(url);
+    const data = await response.json();
+    return data;
+}
+const fetchData = async (url) => {
+    try {
+        const products = await runcode(url);
+        console.log(products);
+    } catch (error) {
+        console.error('error');
+        if (error.code == 'ERR_INVALID_URL') {
+            console.error('Url invalida');
+        }
+    }
+}
+fetchData('-----');
+
+
+export async function runCode(url) {
+    try {
+     new URL(url);
+     const response = await fetch(url);
+     return response.json();
+    } catch(error) {
+      if (error.message === "Failed to construct 'URL': Invalid URL"){
+        throw new Error('Invalid URL');
+      } else {
+        throw new Error('Something was wrong');
+      }
+    }
+  }
