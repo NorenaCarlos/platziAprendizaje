@@ -4,6 +4,7 @@
   "description": "Curso asincronismo con javascript platzi ",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d srcProject",
     "callback": "node ./src/callback/challange.js"
   },
   "author": "",
@@ -12,5 +13,8 @@
     "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   },
-  "type":"module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
