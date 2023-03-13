@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\bin\Debug\net7.0\primerasClases.exe
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\bin\Debug\net7.0\primerasClases.deps.json
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\bin\Debug\net7.0\primerasClases.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\bin\Debug\net7.0\primerasClases.dll
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\bin\Debug\net7.0\primerasClases.pdb
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.dll
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\refint\primerasClases.dll
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.pdb
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\primerasClases.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\platziAprendizaje\c#\basico c#\primerasClases\obj\Debug\net7.0\ref\primerasClases.dll
